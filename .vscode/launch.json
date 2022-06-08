@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "sorting.SelectionSort",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "sorting.insertionSort",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch intro",
+            "request": "launch",
+            "mainClass": "bubbleSort.intro",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstLetter",
+            "request": "launch",
+            "mainClass": "binarySearch.leetcode.firstLetter",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch ascii",
+            "request": "launch",
+            "mainClass": "binarySearch.ascii",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch smallestletter",
+            "request": "launch",
+            "mainClass": "binarySearch.smallestletter",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch floorValue",
+            "request": "launch",
+            "mainClass": "binarySearch.floorValue",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch ceiling",
+            "request": "launch",
+            "mainClass": "binarySearch.ceiling",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch orderAgnostic",
+            "request": "launch",
+            "mainClass": "binarySearch.orderAgnostic",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseBinary",
+            "request": "launch",
+            "mainClass": "binarySearch.reverseBinary",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variable_Args",
+            "request": "launch",
+            "mainClass": "Variable_Args",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch array2d",
+            "request": "launch",
+            "mainClass": "array_arraylist.array2d",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch arraylist",
+            "request": "launch",
+            "mainClass": "array_arraylist.arraylist",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch intro",
+            "request": "launch",
+            "mainClass": "array_arraylist.intro",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "array_arraylist.practice_array.max",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "array_arraylist.practice_array.reverse",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "array_arraylist.practice_array.swap",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch intro(1)",
+            "request": "launch",
+            "mainClass": "binarySearch.intro",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_max",
+            "request": "launch",
+            "mainClass": "functions.Min_max",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch Voting",
+            "request": "launch",
+            "mainClass": "functions.Voting",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch circle",
+            "request": "launch",
+            "mainClass": "functions.circle",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "functions.factorial",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch list_of_prime",
+            "request": "launch",
+            "mainClass": "functions.list_of_prime",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd_even",
+            "request": "launch",
+            "mainClass": "functions.odd_even",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "functions.palindrome",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "functions.prime",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch product",
+            "request": "launch",
+            "mainClass": "functions.product",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch pythagoras",
+            "request": "launch",
+            "mainClass": "functions.pythagoras",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "functions.sum",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo_search",
+            "request": "launch",
+            "mainClass": "linearSearch.demo_search",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenDigit",
+            "request": "launch",
+            "mainClass": "linearSearch.evenDigit",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch intro(2)",
+            "request": "launch",
+            "mainClass": "linearSearch.intro",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum",
+            "request": "launch",
+            "mainClass": "linearSearch.minimum",
+            "projectName": "java_9b994974"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchInString",
+            "request": "launch",
+            "mainClass": "linearSearch.searchInString",
+            "projectName": "java_9b994974"
+        }
+    ]
+}
